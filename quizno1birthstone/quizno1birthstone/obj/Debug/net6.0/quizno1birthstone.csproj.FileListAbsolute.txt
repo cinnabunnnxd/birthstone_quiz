@@ -1,0 +1,15 @@
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\bin\Debug\net6.0\quizno1birthstone.exe
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\bin\Debug\net6.0\quizno1birthstone.deps.json
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\bin\Debug\net6.0\quizno1birthstone.runtimeconfig.json
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\bin\Debug\net6.0\quizno1birthstone.dll
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\bin\Debug\net6.0\quizno1birthstone.pdb
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.csproj.AssemblyReference.cache
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.AssemblyInfoInputs.cache
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.AssemblyInfo.cs
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.csproj.CoreCompileInputs.cache
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.dll
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\refint\quizno1birthstone.dll
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.pdb
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\quizno1birthstone.genruntimeconfig.cache
+C:\Users\Naval\source\repos\quizno1birthstone\quizno1birthstone\obj\Debug\net6.0\ref\quizno1birthstone.dll
